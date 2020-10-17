@@ -29,8 +29,11 @@ function myAnimation () {
 
 btn.addEventListener('click', myAnimation);
 
+<<<<<<< HEAD
 //кнопки после анимации, наследование
 
+=======
+>>>>>>> 359b5321de44b67d7b3511a62fd25893cf0679b9
 let btnBlock = document.querySelector('.btn-block')
 let btns = document.getElementsByTagName('button');
 
